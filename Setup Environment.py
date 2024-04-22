@@ -1,5 +1,0 @@
-# Import python packages
-import streamlit as st
-
-
-st.write('Hello World')
